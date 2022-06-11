@@ -2,7 +2,7 @@
 
 <samp>Soy un ingeniero de Computación con el objetivo de formarme ampliamente, siempre en busca de ampliar mis habilidades, así como encontrar nuevas y fascinantes tecnologías para evolucionar en el ambito de la informatica como desarrollador.</samp>
 
-## ⚡ Tecnologías
+## 💻 Tecnologías
 
 - Desarrollo front-end usando **React.js, Redux.js, HTML con JavaScript y CSS**
 - Desarrollo backend usando **Node.js, Express.js**
