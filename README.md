@@ -1,6 +1,6 @@
 <h2> Anderson G. Gutierrez</h2>
 
-<samp>Soy un ingeniero de Computación con el objetivo de formarme ampliamente, siempre en busca de ampliar mis habilidades, así como encontrar nuevas y fascinantes tecnologías para evolucionar en el ambito de la informatica como desarrollador.</samp>
+<samp>Soy un ingeniero de computación con el objetivo de formarme ampliamente en el ambito de la informatica como desarrollador, siempre en busca de ampliar mis habilidades, así como encontrar nuevas y fascinantes tecnologías para evolucionar como desarrollador.</samp>
 
 ## 💻 Tecnologías
 
