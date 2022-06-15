@@ -13,5 +13,5 @@
 ## Ahora mismo estoy aprendiendo...
 
 - :snake: **Python and Django**
-- Desarrollo movil **React Native y Ionic/Angular**
-- Desarrollo web **Angular**
+- **Angular**
+- **React Native y Ionic/Angular**
