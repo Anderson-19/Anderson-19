@@ -4,13 +4,12 @@
 
 ## 💻 Tecnologías
 
-- Desarrollo web front-end usando **Angular, React.js, Redux.js, HTML con JavaScript y CSS**
+- Desarrollo web front-end usando **Next.js, React.js, Redux, Zustand, HTML con JavaScript y CSS**
 - Desarrollo backend usando **Node.js, Express.js**
 - Manejo de bases de datos relacionales y no relacionales usando **PostgreSQL y MongoDB**
-- Despliegue de aplicaciones usando **Heroku**
+- ORM **Prisma**
 - Control de versiones de aplicaciones usando **Git**
 
 ## Ahora mismo estoy aprendiendo...
 
-- :snake: **Python and Django**
-- **React Native y Ionic/Angular**
+- **React Native**
