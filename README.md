@@ -6,8 +6,7 @@
 
 - Desarrollo web front-end usando **Next.js, React.js, Redux, Zustand, HTML con JavaScript y CSS**
 - Desarrollo backend usando **Node.js, Express.js**
-- Manejo de bases de datos relacionales y no relacionales usando **PostgreSQL y MongoDB**
-- ORM **Prisma**
+- Manejo de bases de datos relacionales y no relacionales usando **PostgreSQL y MongoDB** con **Prisma ORM**
 - Control de versiones de aplicaciones usando **Git**
 
 ## Ahora mismo estoy aprendiendo...
