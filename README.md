@@ -11,4 +11,4 @@
 
 ## Ahora mismo estoy aprendiendo...
 
-- **React Native**
+- **Angular** y **NestJS**
